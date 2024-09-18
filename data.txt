@@ -1,0 +1,4 @@
+hi this is python tutorial
+we are practising python here, because we like python
+we love solving python interview questions
+you can also join us if you wanna do the same.
